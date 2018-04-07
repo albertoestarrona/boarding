@@ -24,7 +24,7 @@ es:
   first_name_placeholder: "Nombre"
   last_name_label: "Apellidos:"
   last_name_placeholder: "Apellidos"
-  email_label: "Correo Electrónico (cuenta AppStore):"
+  email_label: "Correo Electrónico (cuenta afiliada al App Store):"
   email_placeholder: "Correo Electrónico"
   password_label: "Contraseña:"
   password_placeholder: "Contraseña"
