@@ -24,7 +24,7 @@ en:
   first_name_placeholder: "First Name"
   last_name_label: "Last Name:"
   last_name_placeholder: "Last Name"
-  email_label: "Email Address:"
+  email_label: "Email Address (Apple ID):"
   email_placeholder: "Email Address"
   password_label: "Password:"
   password_placeholder: "Password"
